@@ -9,6 +9,9 @@ import javax.swing.*;
   public class Panel extends JPanel{
 
 
+//Hola A todos x 3
+
+
       public void paintComponent(Graphics p){
 
       super.paintComponent(p);
